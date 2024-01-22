@@ -4,7 +4,7 @@
 ![](task1.1png.png)
 
 
-****java
+````java
 public class Shirt {
     public int shirtID = 0; // стандартне значення номера моделі сорочки
     public String description = "має гарний принт"; // стандартний опис сорочки
@@ -22,12 +22,12 @@ public class Shirt {
         System.out.println("Quantity in stock: " + quantityInStock);
     } // кінець методу displayShirtInformation
 } // кінець опису класу
-****
+````
 # колір сорочки зберігається та виводиться у вигляді рядка
 
 ![](task1.2.png)
 
-****java
+````java
 public class Shirt {
     public int shirtID = 0; // стандартне значення номера моделі сорочки
     public String description = "має гарний принт"; // стандартний опис сорочки
@@ -45,4 +45,4 @@ public class Shirt {
         System.out.println("Quantity in stock: " + quantityInStock);
     } // кінець методу displayShirtInformation
 } // кінець опису класу
-****
+````
